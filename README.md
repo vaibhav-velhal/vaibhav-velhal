@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vaibhav.velhal1614@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/13ZcZ32SWrIkYD8nZT96JYjKXNa8zJWVf/view?usp=drivesdk](https://drive.google.com/file/d/13ZcZ32SWrIkYD8nZT96JYjKXNa8zJWVf/view?usp=drivesdk)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1EACSoTfzhiwi2SpL7KV5IKbI6nKN7akr/view?usp=drivesdk)**
 
 **🚀 Focus Areas:**
 - Frontend Development
