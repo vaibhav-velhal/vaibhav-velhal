@@ -55,8 +55,8 @@ I enjoy building responsive web applications and developing full-stack solutions
 **Design Tools**
 
 <p>
-  <img src="./assets/photoshop.jpeg" height="28" alt="Adobe Photoshop" />
-  <img src="./assets/lightroom.jpeg" height="28" alt="Adobe Lightroom" />
+  <img src="./assets/photoshop.png" height="28" alt="Adobe Photoshop" />
+  <img src="./assets/lightroom.png" height="28" alt="Adobe Lightroom" />
 </p>
 
 ---
@@ -64,9 +64,9 @@ I enjoy building responsive web applications and developing full-stack solutions
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://ghstats.dev/api/card?username=vaibhav-velhal&show_ring=false&hide_title=true&hide=stars%2Cprs%2Cissues%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cfollowers" alt="GitHub Stats Card" />
   <img src="https://ghstats.dev/api/sparkline?username=vaibhav-velhal&days=30&width=320&height=100" alt="Contribution Sparkline" />
   <img src="https://ghstats.dev/api/langs?username=vaibhav-velhal" alt="Top Languages" />
-  <img src="https://ghstats.dev/api/card?username=vaibhav-velhal&show_ring=false&hide_title=true&hide=stars%2Cprs%2Cissues%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cfollowers" alt="GitHub Stats Card" />
 </p>
 
 ---
