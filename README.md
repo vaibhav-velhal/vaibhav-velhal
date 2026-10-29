@@ -55,8 +55,8 @@ I enjoy building responsive web applications and developing full-stack solutions
 **Design Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
+  <img src="./assets/photoshop.jpeg" height="28" alt="Adobe Photoshop" />
+  <img src="./assets/lightroom.jpeg" height="28" alt="Adobe Lightroom" />
 </p>
 
 ---
@@ -64,23 +64,17 @@ I enjoy building responsive web applications and developing full-stack solutions
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-velhal&layout=compact&theme=default&hide_border=true" alt="Most Used Languages by Vaibhav Velhal" height="180" />
+  <img src="https://ghstats.dev/api/card?username=vaibhav-velhal&show_ring=false&hide_title=true&hide=stars%2Cprs%2Cissues%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cfollowers" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=vaibhav-velhal" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/sparkline?username=vaibhav-velhal&days=30&width=320&height=80" alt="Contribution Sparkline" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-<p>
-  <a href="https://vaibhav-velhal-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/vaibhav-velhal">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-velhal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- 🌐 **Portfolio:** [My Portfolio](https://vaibhav-velhal-portfolio.vercel.app)
+- 💻 **GitHub:** [My GitHub](https://github.com/vaibhav-velhal)
+- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/vaibhav-velhal/)
 
 I'm always interested in learning new technologies, building useful applications, and connecting with fellow developers. Thanks for visiting my profile! 😊
